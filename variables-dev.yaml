@@ -8,6 +8,6 @@ CART_HOST: cart.app-dev.daws14.online
 SHIPPING_HOST: shipping.app-dev.daws14.online 
 PAYMENT_HOST: payment.app-dev.daws14.online 
 DISPATCH_HOST: dispatch.app-dev.daws14.online
-NEXUS_URL: http://172.31.14.12:8081/repository #changes it
+NEXUS_URL: http://172.31.83.22:8081/repository #changes it
 group_id: "com/roboshop"
 
