@@ -10,3 +10,4 @@ PAYMENT_HOST: payment-prod.devaws14.online
 DISPATCH_HOST: dispatch-prod.devaws14.online
 NEXUS_URL: http://172.31.83.22:8081/repository #change it
 group_id: "com/roboshop"
+packaging: "zip"
