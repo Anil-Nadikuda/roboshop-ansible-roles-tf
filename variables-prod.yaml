@@ -1,12 +1,12 @@
-MONGODB_HOST: mongodb-prod.daws14.online  # submit your host
-REDIS_HOST: redis-prod.daws14.online 
-MYSQL_HOST: mysql-prod.daws14.online 
-RABBITMQ_HOST: rabbitmq-prod.daws14.online 
-CATALOGUE_HOST: catalogue-prod.daws14.online 
-USER_HOST: user-prod.daws14.online 
-CART_HOST: cart-prod.daws14.online 
-SHIPPING_HOST: shipping-prod.daws14.online 
-PAYMENT_HOST: payment-prod.daws14.online 
-DISPATCH_HOST: dispatch-prod.daws14.online
+MONGODB_HOST: mongodb-prod.devaws14.online  # submit your host
+REDIS_HOST: redis-prod.devaws14.online 
+MYSQL_HOST: mysql-prod.devaws14.online 
+RABBITMQ_HOST: rabbitmq-prod.devaws14.online 
+CATALOGUE_HOST: catalogue-prod.devaws14.online 
+USER_HOST: user-prod.devaws14.online 
+CART_HOST: cart-prod.devaws14.online 
+SHIPPING_HOST: shipping-prod.devaws14.online 
+PAYMENT_HOST: payment-prod.devaws14.online 
+DISPATCH_HOST: dispatch-prod.devaws14.online
 NEXUS_URL: http://172.31.83.22:8081/repository #change it
 group_id: "com/roboshop"

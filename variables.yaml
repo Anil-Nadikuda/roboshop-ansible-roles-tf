@@ -1,10 +1,10 @@
-MONGODB_HOST: mongodb.daws14.online # submit your host
-REDIS_HOST: redis.daws14.online
-MYSQL_HOST: mysql.daws14.online
-RABBITMQ_HOST: rabbitmq.daws14.online
-CATALOGUE_HOST: catalogue.daws14.online
-USER_HOST: user.daws14.online
-CART_HOST: cart.daws14.online
-SHIPPING_HOST: shipping.daws14.online
-PAYMENT_HOST: payment.daws14.online
-DISPATCH_HOST: dispatch.daws14.online
+MONGODB_HOST: mongodb.devaws14.online # submit your host
+REDIS_HOST: redis.devaws14.online
+MYSQL_HOST: mysql.devaws14.online
+RABBITMQ_HOST: rabbitmq.devaws14.online
+CATALOGUE_HOST: catalogue.devaws14.online
+USER_HOST: user.devaws14.online
+CART_HOST: cart.devaws14.online
+SHIPPING_HOST: shipping.devaws14.online
+PAYMENT_HOST: payment.devaws14.online
+DISPATCH_HOST: dispatch.devaws14.online
